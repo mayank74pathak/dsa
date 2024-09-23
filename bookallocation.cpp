@@ -1,3 +1,5 @@
+// painters problem ,book allocation,split array largest sum has same code 
+// https://www.youtube.com/watch?v=YTTdLgyqOLY
 bool isPossible(vector<int>& arr, int n, int m,int mid)
 {
     int pagesum=0;
